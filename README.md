@@ -17,3 +17,6 @@
   - Supporting an intern in design and troubleshooting roles
   - Exposing an intern to meaningful networking opportunities
   - Expanding an interns understanding of our work and practices by leading them on product demo's and development tasks
+
+## Current Projects
+- [Dividend-Dollars-Investment-App](https://github.com/Khudd1214/CS46x---Dividend-Dollars-Investment-App)
