@@ -1,16 +1,19 @@
-## Hi there 👋
+## Site Reliability Engineer - Intermediate
 
-<!--
-**Khudd1214/Khudd1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Promoted from Entry Level to Intermediate after being rated a 'top performing engineer' by my company and manager. This rating placed me as performing within the top 5% of engineers for my division
 
-Here are some ideas to get you started:
+- Led a project to research, plan, develop and implement scalable observability workflows and best practices on global erp software. Some of the tools and technology utilized for this project were OpenTelemetry, Kubernetes, HCP Terraform, GitHub / GitHub actions, New Relic, and PagerDuty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Led a project to uplift legacy file management software with Infrastructure as Code, CI / CD workflows, and custom automation assets. Some of the tools and technology utilized for this project were HCP Terraform, Windows Active Directory, PowerShell scripting, and GitHub / GitHub Actions.
+
+- During the development of critical platform services, acted as a supporting Subject Matter Expert on practices related to observability, Infrastructure as Code, and general automation.
+
+- Served as a representative and advocate for our company in technical conferences / conventions. A few examples are:
+  - HashiConf 2023 : Sent by management with the goal of researching scalable production workflows in HCP Terraform. Received my Terraform Associate certification while attending.
+  - HashiConf 2024 : Sent by management to research and discuss new featuresets being released for HCP Terraform, such as Terraform Stacks & Module Lifecycle Management.
+
+- Serving as a mentor and support resource for Platform SRE interns. My support of our interns consisted of:
+  - Supporting management in planning educational and productive work for an intern
+  - Supporting an intern in design and troubleshooting roles
+  - Exposing an intern to meaningful networking opportunities
+  - Expanding an interns understanding of our work and practices by leading them on product demo's and development tasks
